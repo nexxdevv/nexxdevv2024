@@ -1,4 +1,4 @@
-import Header from "../components/common/header/Header"
+import Header from "../components/common/Header"
 import Tech from "../components/homepage/Tech"
 import Projects from "../components/homepage/Projects"
 import Footer from "../components/common/Footer"
