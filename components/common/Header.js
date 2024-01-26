@@ -14,8 +14,10 @@ const Header = () => {
               height={24}
             />
           </Link>
-          <h4 className="text-lg font-bold dark:text-white">phlud</h4>
-          <span>💋</span>
+          <h4 className="text-lg font-bold -translate-x-2 dark:text-white">
+            phlud
+          </h4>
+          <span className="-translate-x-2">💋</span>
         </div>
       </div>
     </header>
