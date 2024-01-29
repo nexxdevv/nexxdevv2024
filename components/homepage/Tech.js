@@ -7,7 +7,7 @@ const josefinSans = Josefin_Sans({ subsets: ["latin"], weight: "700" })
 const Tech = () => {
   return (
     <div className="w-full mx-auto max-w-7xl sm:max-w-fit">
-      <ul className="grid flex-wrap items-center justify-center grid-cols-4 gap-2 scale-90">
+      <ul className="grid flex-wrap items-center justify-center grid-cols-4 gap-2 scale-[.85]">
         <li className="">
           <Image
             src="/assets/technologies/node.png"

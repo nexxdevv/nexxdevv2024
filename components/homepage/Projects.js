@@ -94,7 +94,7 @@ const projects = [
 const Projects = () => {
   return (
     <div className="mx-auto max-w-7xl">
-      <ul className="flex flex-wrap justify-center gap-4 mt-2">
+      <ul className="flex flex-wrap justify-center gap-4">
         {projects.map((project) => (
           <Project key={project.id} {...project} />
         ))}

@@ -9,7 +9,7 @@ const App = () => {
     
     <>
     <Head>
-      <title>phlud logic.</title>
+      <title>cliff s. 2024</title>
     </Head>
       <div className="flex flex-col gap-4 p-2 mx-auto antialiased max-w-7xl">
         <Header />
